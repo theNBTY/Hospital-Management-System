@@ -1,0 +1,26 @@
+[
+    {
+        "first_name": "John",
+        "last_name": "Smith",
+        "speciality": "Internal Med.",
+        "appointments_count": 1
+    },
+    {
+        "first_name": "Jone",
+        "last_name": "Smith",
+        "speciality": "Pediatrics",
+        "appointments_count": 1
+    },
+    {
+        "first_name": "Jone",
+        "last_name": "Carlos",
+        "speciality": "Cardiology",
+        "appointments_count": 0
+    },
+    {
+        "first_name": "John",
+        "last_name": "Doe",
+        "speciality": "Psychiatry",
+        "appointments_count": 0
+    }
+]
